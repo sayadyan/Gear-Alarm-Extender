@@ -1,4 +1,4 @@
-Gear Alarm Extender add Sleep as Android clock alarm notification to Gear Fit. 
+Gear Alarm Extender adds Sleep as Android clock alarm notification to Gear Fit. 
 
 1. If you device is not Samsung install 4ClockPackageHolo.apk
 2. Install Gear-Alarm-Extender.apk
