@@ -25,6 +25,13 @@
             </intent-filter>
         </receiver>
 
+        <receiver android:name=".receiver.clock.DeskclockAlertAgent">
+            <intent-filter>
+                <action android:name="com.android.deskclock.ALARM_ALERT" />
+                <action android:name="com.android.deskclock.ALARM_DONE" />
+            </intent-filter>
+        </receiver>
+
         <activity android:name=".activity.SsaiTestActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
